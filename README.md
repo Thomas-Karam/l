@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomas-Karam
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning programming 
+- 🌱 I’m currently learning Computer Science  
   
 
 <!---
