@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thomas-Karam
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Computer Science  
-  (https://www.w3schools.com/)
+- 🌱 I’m currently learning Computer Science
 
 <!---
 Thomas-Karam/Thomas-Karam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
