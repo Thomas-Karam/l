@@ -2,10 +2,10 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Computer Science
  # Skills
-C </br>
-C++
-Java 
-HTML
+C </t>
+C++ </br>
+Java </br>
+HTML </t>
 CSS 
 
 <!---
