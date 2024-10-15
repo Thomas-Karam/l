@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thomas-Karam
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Computer Science
-# Skills
-C
+ # Skills
+C </br>
 C++
 Java 
 HTML
