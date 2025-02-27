@@ -1,0 +1,170 @@
+* {
+    font-style: italic;
+}
+
+a {
+    margin: 5px;
+    padding: 10px;
+    color: black;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: gray;
+}
+
+
+/*start navigation section*/
+nav {
+    width: 15%;
+    left: 0;
+    top: 5px;
+    bottom: 5px;
+    position: fixed;
+    border-radius: 0px 10px 10px 0px;
+    background-color: whitesmoke;
+}
+
+nav img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid white;
+    border-radius: 1000px;
+}
+
+nav h1, nav p, nav hr {
+    margin: 10px;
+}
+
+nav a {
+    width: 80%;
+    margin: 10px 0;
+    border-radius: 0px 10px 90px 0px;
+}
+/*end navigation section*/
+
+
+section {
+    margin-left: 15%;
+}
+
+
+/*start about section*/
+/*end about section*/
+
+
+
+/*start skills section*/
+#about {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#about div {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+/*end skills section*/
+
+
+
+/*start projects section*/
+#projects {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#projects div {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+/*end projects section*/
+
+
+
+/*start contact section*/
+#contact {
+    overflow: auto;
+}
+
+#contact div {
+    float: left;
+    width: 65%;
+}
+
+#contact div a {
+    color: black;
+}
+
+#contact form {
+    float: right;
+    width: 35%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+/*end contact section*/
+
+
+
+footer {
+    text-align: center;
+}
+
+footer hr {
+    margin-left: 20%;
+    margin-right: 5%;
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 700px) {
+    nav {
+        width: 100%;
+        position: relative;
+        border-radius: 30px;
+    }
+
+    nav a i, nav img, nav p, nav hr, nav h1 {
+        display: none;
+    }
+
+    nav a {
+        width: auto;
+        padding: 15px;
+        margin: 5px 30px;
+        border-radius: 50px;
+    }
+
+    section {
+        margin: 0;
+    }
+
+    #about div, #projects div {
+        width: 100px;
+    }
+
+    #contact div, #contact form {
+        width: 100%;
+    }
+
+    #contact form {
+        margin: 0;
+    }
+
+    footer hr {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
